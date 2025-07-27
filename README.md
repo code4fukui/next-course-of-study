@@ -17,3 +17,5 @@
 
 - [GIGAスクール構想について：文部科学省](https://www.mext.go.jp/a_menu/other/index_0001111.htm)
     - Markdown [子供たち一人ひとりに個別最適化され、創造性を育む教育ICT環境の実現に向けて](giga-school.md)
+- [「GIGAスクール構想」の目的を知ろう - StuDX Styleを活用した研修例：文部科学省](https://www.mext.go.jp/studxstyle/special/20.html)
+    - GIGA = Global and Innovation Gateway for Allの略 ← [【資料１】新学習指導要領とGIGAスクール構想の関係_StuDXStyleミニ研修](https://www.mext.go.jp/content/20220421-mext_kyoiku01_000021124_14.pdf)
