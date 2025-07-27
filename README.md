@@ -12,3 +12,8 @@
 
 - 2016-08-26 [次期学習指導要領等に向けたこれまでの審議のまとめについて（報告）：文部科学省](https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/004/gaiyou/1377051.htm)
     - Markdown形式 [次期学習指導要領等に向けたこれまでの審議のまとめ](courseofstudy2020.md)
+
+## GIGAスクール構想
+
+- [GIGAスクール構想について：文部科学省](https://www.mext.go.jp/a_menu/other/index_0001111.htm)
+    - Markdown [子供たち一人ひとりに個別最適化され、創造性を育む教育ICT環境の実現に向けて](giga-school.md)
