@@ -12,6 +12,7 @@
 
 - 2016-08-26 [次期学習指導要領等に向けたこれまでの審議のまとめについて（報告）：文部科学省](https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/004/gaiyou/1377051.htm)
     - Markdown形式 [次期学習指導要領等に向けたこれまでの審議のまとめ](courseofstudy2020.md)
+- 現行学習指導要領 [平成29・30・31年改訂学習指導要領（本文、解説）：文部科学省](https://www.mext.go.jp/a_menu/shotou/new-cs/1384661.htm)
 
 ## GIGAスクール構想
 
@@ -19,3 +20,7 @@
     - Markdown [子供たち一人ひとりに個別最適化され、創造性を育む教育ICT環境の実現に向けて](giga-school.md)
 - [「GIGAスクール構想」の目的を知ろう - StuDX Styleを活用した研修例：文部科学省](https://www.mext.go.jp/studxstyle/special/20.html)
     - GIGA = Global and Innovation Gateway for Allの略 ← [【資料１】新学習指導要領とGIGAスクール構想の関係_StuDXStyleミニ研修](https://www.mext.go.jp/content/20220421-mext_kyoiku01_000021124_14.pdf)
+
+## その他
+
+- [学習指導要領 用語](words.md)
