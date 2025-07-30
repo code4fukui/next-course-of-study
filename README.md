@@ -37,7 +37,7 @@
 7. 第7回 [開催案内](https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/kaisai/mext_00042.html) [配布資料](https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/101/siryo/mext_00007.html)
     1. 情報活用能力について [論点資料](https://www.mext.go.jp/content/20250512-mext_kyoiku01-000042419_03.pdf)
     2. その他
-8. 第8回 [開催案内](https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/kaisai/mext_00046.html)
+8. 第8回 [開催案内](https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/kaisai/mext_00046.html) [配布資料](https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/101/siryo/mext_00008.html)
     1. 質の高い探究的な学びの実現について(情報活用能力との一体的な充実) [論点資料](https://www.mext.go.jp/content/000360892.pdf)
     2. その他
 9. 第9回 [開催案内](https://www.mext.go.jp/b_menu/shingi/chukyo/chukyo3/kaisai/mext_00048.html)
